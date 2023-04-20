@@ -1,0 +1,5 @@
+cores:
+não faça tudo da mesma cor, faça cada pagina com uma cor, com um tema diferente
+
+qrcode:
+quando for fakar da responsividade, usa um qr code para o recrutador ter mais facilidade para acessar seu site pelo celular dele
