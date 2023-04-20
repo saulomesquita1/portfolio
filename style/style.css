@@ -19,6 +19,12 @@ body{
     background-color: var(--bgcolor);
 }
 
+aside h1{
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+    font-size: 30px;
+}
+
 #projects{
     text-align: right;
     float: right;
