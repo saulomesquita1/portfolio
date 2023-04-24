@@ -35,9 +35,9 @@ aside h1{
 
 #projects > h2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 7vw;
+    font-size: 6vw;
     font-weight: 900;
-    max-width: 60vw;
+    max-width: 80vw;
     text-transform: uppercase;
     line-height: 1em;
     margin-bottom: 1vw;
@@ -49,6 +49,6 @@ aside h1{
 
 #projects > h2:hover{
     color: white;
-    font-size: 8.3vw;
+    font-size: 7vw;
     transition: 500ms;
 }
